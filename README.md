@@ -1,3 +1,33 @@
+# Enhancing Elements with Directives in Angular
+
+This project dives deep into Angular directives, demonstrating how to enhance HTML elements and create dynamic, reusable components. The focus is on utilizing both built-in and custom directives to add behavior and structure to the DOM.
+
+### Key Features:
+
+- **Exploration of Built-in Directives**:
+  - Understand and utilize attribute directives like `ngModel` for two-way data binding.
+  - Analyze structural directives like `ngIf` to manipulate the DOM dynamically.
+
+- **Creating Custom Directives**:
+  - Learn how to build custom attribute and structural directives to implement unique functionality and behavior.
+  - Explore the use of inputs in custom directives to make them dynamic and reusable.
+
+- **Dependency Injection in Directives**:
+  - Integrate Angular's dependency injection to enhance the functionality of custom directives.
+
+- **Advanced Features**:
+  - Discover structural directives with syntactic sugar for clean and concise templates.
+  - Implement host directives and composition to create more complex, feature-rich components.
+
+By the end of the project, the application demonstrates a comprehensive understanding of Angular directives, providing enhanced interactivity and functionality to the user interface.
+
+## Deployment
+
+The project is deployed and accessible online. You can view it at the following link:
+
+**[Deployed Site](https://directives-angular.vercel.app)**
+
+
 # DirectivesDeepDive
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
